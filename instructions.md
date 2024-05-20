@@ -17,3 +17,9 @@ pip install opencv-python
 import pytesseract
 ```
 
+# Create a virtual environment
+python -m venv myenv
+
+# Activate the virtual environment
+myenv\Scripts\activate.bat
+
