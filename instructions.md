@@ -23,3 +23,7 @@ python -m venv myenv
 # Activate the virtual environment
 myenv\Scripts\activate.bat
 
+
+
+# Data Augmentation:
+https://www.geeksforgeeks.org/python-data-augmentation/
